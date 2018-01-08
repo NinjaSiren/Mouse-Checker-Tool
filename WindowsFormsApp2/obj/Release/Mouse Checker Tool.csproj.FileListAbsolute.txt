@@ -1,0 +1,13 @@
+C:\Users\NinjaSiren\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Mouse Checker Tool.exe.config
+C:\Users\NinjaSiren\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Mouse Checker Tool.exe.manifest
+C:\Users\NinjaSiren\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Mouse Checker Tool.application
+C:\Users\NinjaSiren\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Mouse Checker Tool.exe
+C:\Users\NinjaSiren\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Mouse Checker Tool.pdb
+C:\Users\NinjaSiren\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\NinjaSiren\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\MouseCheckerTool.Properties.Resources.resources
+C:\Users\NinjaSiren\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Mouse Checker Tool.csproj.GenerateResource.Cache
+C:\Users\NinjaSiren\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Mouse Checker Tool.csproj.CoreCompileInputs.cache
+C:\Users\NinjaSiren\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Mouse Checker Tool.exe.manifest
+C:\Users\NinjaSiren\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Mouse Checker Tool.application
+C:\Users\NinjaSiren\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Mouse Checker Tool.exe
+C:\Users\NinjaSiren\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Mouse Checker Tool.pdb
